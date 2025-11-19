@@ -1,4 +1,4 @@
-<img width="1245" height="393" alt="image" src="https://github.com/user-attachments/assets/35d9772e-dfea-4aa4-87b9-0bc5df64a4aa" />Language Translator
+
 A simple language translator built using Googletrans and Gradio.
 It allows you to translate text between different languages through an interactive web interface.
 
