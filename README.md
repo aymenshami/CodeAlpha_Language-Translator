@@ -10,4 +10,4 @@ Example:
 Source Text: Hello, My name is Aiman
 Source Language: English
 Target Language: Arabic
-Translated Text: 
+Translated Text: مرحبًا، اسمي أيمن
